@@ -8,8 +8,6 @@ This is Divya Prakash Manivannan, a graduate student from New York University.
 
 - 🔭  I’m currently working on exploring threats on Self-Supervised MultiModal Networks
 
-#### :medal_sports: About my Work and Contributions :medal_sports:
-[![Divya Prakash's github stats](https://github-readme-stats.vercel.app/api?username=MDivyaPrakash&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 #### More Specs on my Work
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDivyaPrakash)](https://github.com/anuraghazra/github-readme-stats)
