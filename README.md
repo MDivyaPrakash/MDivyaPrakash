@@ -1,6 +1,6 @@
 ### Hey there, Welcome to my Profile 👋
 
-This is Divya Prakash Manivannan, a graduate student at New York University.
+This is Divya Prakash Manivannan, a graduate student from New York University.
 
 - :technologist:  I am an avid problem solver, enthusiastic team player, Agile practitioner and a skilled backend Software Developer with 2+ years of progressive experience.
 
